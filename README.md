@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Can Gündüz</h1>
-<h3 align="center">Kotlin Mobile Developer- Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mehmetjr](https://github.com/Mehmetjr)
 
